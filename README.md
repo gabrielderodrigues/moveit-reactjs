@@ -14,7 +14,7 @@
 </ul>
 
 <h1>Comandos necessários👩🏾‍🏫</h1>
-<strong>OBS: Necessário ter YARN ou NPM instalado na máquina!</strong>
+<p><strong>OBS: Necessário ter YARN ou NPM instalado na máquina!</strong></p>
 
 <p>Se você estiver utilizando o <strong>npm</strong></p>
 <ol>
